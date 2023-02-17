@@ -43,8 +43,8 @@ namespace SecondHW
         }
         static void Main(string[] args)
         {
-            //FirstTask();
-            //SecondTask();
+            FirstTask();
+            SecondTask();
             ThirdTask();
         }
     }
